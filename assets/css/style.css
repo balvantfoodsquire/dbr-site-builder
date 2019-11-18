@@ -487,8 +487,11 @@ header .navbar .nav-link{
 .section-six{
    height: 388px;
   object-fit: contain;
-  background-color: #101010;
+  /*background-color: #101010;*/
+  background-image: url('../images/backgroun-img.png');
   margin: 10% 0px;
+  background-repeat: no-repeat;
+    background-size: cover;
 }
 .dektop{
   margin-top: -15px;
@@ -640,7 +643,7 @@ header .navbar .nav-link{
 margin-left: 10%;
     padding: 10% 0;
 }
-.contact-form .form-group input[type="text"]{
+.contact-form .form-group input{
   font-family: Montserrat-Regular;
   font-size: 12px;
   font-weight: normal;
@@ -654,7 +657,15 @@ margin-left: 10%;
   background-color: #cacaca;
   height: 36px;
 }
-.contact-form .form-group input[type="email"]{
+.contact-form .form-group input:focus{
+  background-color: #fff;
+  box-shadow: none;
+}
+.contact-form .form-group textarea:focus{
+  background-color: #fff;
+  box-shadow: none;
+}
+/*.contact-form .form-group input[type="email"]{
   font-family: Montserrat-Regular;
   font-size: 12px;
   font-weight: normal;
@@ -665,9 +676,9 @@ margin-left: 10%;
   text-align: left;
   color: #222222;
   border-radius: 0px;
-  background-color: #fff;
+  background-color: #cacaca;
   height: 36px;
-}
+}*/
 .contact-form .form-group textarea{
   font-family: Montserrat-Regular;
   font-size: 12px;

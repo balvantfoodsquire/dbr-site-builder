@@ -547,6 +547,8 @@ font-size: 25px;
 }
 .section-six {
     height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .desktop-imgs .dektop{
    /* display: none !important;*/
