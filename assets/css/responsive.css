@@ -1,0 +1,612 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+
+}
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+.m-top-25 {
+    margin-top: 15% !important;
+}
+.section-five {
+    background-image: url(../images/section-4.png);
+    height: 276px !important;
+}
+.smpl-dv {
+    margin-top: 20% !important;
+    text-align: center;
+}
+.lean-more {
+    width: 25% !important;
+}
+.address {
+    margin-top: 35% !important;
+}
+.gallery_product:hover .img-info {
+    padding-top: 15% !important;
+}
+.gallery_product:hover .img-info p {
+    font-size: 9px !important;
+    line-height: normal!important;
+}
+.gallery_product:hover .img-info h4 {
+  font-size: 15px !important;
+}
+.hassle-div {
+    margin: 6% !important;
+}
+}
+
+/**Ipod Pro**/
+/* Landscape*/
+
+@media only screen and (min-device-width: 1366px) and (max-device-height: 1024px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: landscape)  {
+
+}
+
+/* Portrait*/
+@media only screen and (min-device-width: 1024px) and (max-device-height: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+    .section-five {
+    background-image: url(../images/section-4.png);
+    height: 354px !important;
+}
+}
+/**end**/
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+
+}
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+/* iPhone 6, 7, 8 ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+.section-bg {
+    height: 350px;
+}
+.create-your {
+font-size: 25px;
+}
+.lean-more
+{
+    width: 50%;
+    line-height: normal;
+}
+.filter-button{
+    margin: 0 10px;
+}
+.m-top-25 {
+    margin-top: 20%;
+}
+.section-second {
+    padding: 5% 2%;
+}
+.get-online {
+    font-size: 22px;
+}
+.divcontainer{
+        background-color: #ffc20e;
+    padding: 2% 10%;
+}
+.section-five {
+    background-image: url(../images/section-4.png);
+    height: 480px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ul-plan {
+   padding-left: 0 !important;
+}
+.ul-plan li {
+    width: 43%;
+    margin: 10px;
+    height: 350px !important;
+    margin-top: -50px;
+    padding: 4px;
+}
+.hg-100 {
+    height: 70% !important;
+}
+.price {
+    font-size: 18px !important;
+}
+.mnth {
+   font-size: 12px !important;
+}
+.li-desc {
+    font-size: 10px !important;
+}
+.plan-btn, .plan-btn1 {
+   font-size: 10px !important;
+}
+.smpl-dv {
+    margin-top: 0%;
+    text-align: center;
+}
+.simple-prc{
+    text-align: center;
+}
+.setup {
+    font-size: 18px;
+    text-align: center;
+}
+.section-six {
+    height: auto;
+}
+.desktop-imgs .dektop{
+   /* display: none !important;*/
+   width: 80%;
+}
+.desktop-imgs .tab-img{
+   /* display: none !important;*/
+   width: 40%;
+       top: 2%;
+    left: 55%;
+} 
+.desktop-imgs .keyboard {
+    margin-left: 10px;
+}
+.desktop-imgs .mouse{
+    margin: auto;
+    display: block;
+}
+.li1-img {
+    padding-bottom: 0;
+}
+.tab1{
+    display: none;
+} 
+.contact-form {
+    margin-left: 0%;
+    padding: 10% 0;
+}
+.address {
+    margin-top: 0%;
+    padding: 10%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+.owl-theme .owl-controls {
+    text-align: left;
+    width: auto;
+    margin-top: 10px !important;
+}
+.footer-logo{
+        margin: auto;
+    display: block;
+}
+.footrmenu ul li {
+    display: inline-block;
+    margin: 20px 20px 0px 3px;
+}
+.footer-row2 {
+    margin-top: 10px;
+}
+.copyright {
+    font-size: 12px;
+    text-align: center;
+}
+.social-link .pull-right {
+    float: left;
+}
+.social-link  .list-inline {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+}
+}
+
+/* iPhone 6+, 7+, 8+ ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+
+}
+
+/* iPhone X ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+.ul-plan {
+   padding-left: 0 !important;
+}
+.ul-plan li {
+    width: 40% !important;
+    margin: 10px !important;
+    height: 350px !important;
+    margin-top: 0;
+    padding: 4px !important;
+}
+.hg-100 {
+    height: 80% !important;
+}
+.price {
+    font-size: 18px !important;
+}
+.mnth {
+   font-size: 12px !important;
+}
+.li-desc {
+    font-size: 10px !important;
+}
+.plan-btn, .plan-btn1 {
+   font-size: 10px !important;
+}
+.desktop-imgs img{
+    display: none !important;
+}  
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+.section-bg {
+    height: 350px;
+}
+.create-your {
+font-size: 25px;
+}
+.lean-more
+{
+    width: 50%;
+    line-height: normal;
+}
+.filter-button{
+    margin: 0 10px;
+}
+.m-top-25 {
+    margin-top: 20%;
+}
+.section-second {
+    padding: 5% 2%;
+}
+.get-online {
+    font-size: 22px;
+}
+.divcontainer{
+        background-color: #ffc20e;
+    padding: 2% 10%;
+}
+.section-five {
+    background-image: url(../images/section-4.png);
+    height: 480px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ul-plan {
+   padding-left: 0 !important;
+}
+.ul-plan li {
+    width: 43%;
+    margin: 10px;
+    height: 350px !important;
+    margin-top: -50px;
+    padding: 4px;
+}
+.hg-100 {
+    height: 70% !important;
+}
+.price {
+    font-size: 18px !important;
+}
+.mnth {
+   font-size: 12px !important;
+}
+.li-desc {
+    font-size: 10px !important;
+}
+.plan-btn, .plan-btn1 {
+   font-size: 10px !important;
+}
+.smpl-dv {
+    margin-top: 0%;
+    text-align: center;
+}
+.simple-prc{
+    text-align: center;
+}
+.setup {
+    font-size: 18px;
+    text-align: center;
+}
+.section-six {
+    height: auto;
+}
+.desktop-imgs .dektop{
+   /* display: none !important;*/
+   width: 80%;
+}
+.desktop-imgs .tab-img{
+   /* display: none !important;*/
+   width: 40%;
+       top: 2%;
+    left: 55%;
+} 
+.desktop-imgs .keyboard {
+    margin-left: 10px;
+}
+.desktop-imgs .mouse{
+    margin: auto;
+    display: block;
+}
+.li1-img {
+    padding-bottom: 0;
+}
+.tab1{
+    display: none;
+} 
+.contact-form {
+    margin-left: 0%;
+    padding: 10% 0;
+}
+.address {
+    margin-top: 0%;
+    padding: 10%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+.owl-theme .owl-controls {
+    text-align: left;
+    width: auto;
+    margin-top: 10px !important;
+}
+.footer-logo{
+        margin: auto;
+    display: block;
+}
+.footrmenu ul li {
+    display: inline-block;
+    margin: 20px 20px 0px 3px;
+}
+.footer-row2 {
+    margin-top: 10px;
+}
+.copyright {
+    font-size: 12px;
+    text-align: center;
+}
+.social-link .pull-right {
+    float: left;
+}
+.social-link  .list-inline {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+}
+.gallery_product:hover .img-info {
+   padding-top: 10% !important;
+}
+}
+
+/* Pixel 2 ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 731px)  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+
+}
+
+/* Pixel 2 ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 731px)  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+
+ }
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+
+}
+
+
+@media (max-width:768px){
+
+.section-bg {
+    height: 350px;
+}
+.create-your {
+font-size: 25px;
+}
+.lean-more
+{
+    width: 50%;
+    line-height: normal;
+}
+.filter-button{
+    margin: 0 10px;
+}
+.m-top-25 {
+    margin-top: 20%;
+}
+.section-second {
+    padding: 5% 2%;
+}
+.get-online {
+    font-size: 22px;
+}
+.divcontainer{
+        background-color: #ffc20e;
+    padding: 2% 10%;
+}
+.section-five {
+    background-image: url(../images/section-4.png);
+    height: 480px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ul-plan {
+   padding-left: 0 !important;
+}
+.ul-plan li {
+    width: 43%;
+    margin: 10px;
+    height: 350px !important;
+    margin-top: -50px;
+    padding: 4px;
+}
+.hg-100 {
+    height: 70% !important;
+}
+.price {
+    font-size: 18px !important;
+}
+.mnth {
+   font-size: 12px !important;
+}
+.li-desc {
+    font-size: 10px !important;
+}
+.plan-btn, .plan-btn1 {
+   font-size: 10px !important;
+}
+.smpl-dv {
+    margin-top: 0%;
+    text-align: center;
+}
+.simple-prc{
+    text-align: center;
+}
+.setup {
+    font-size: 18px;
+    text-align: center;
+}
+.section-six {
+    height: auto;
+}
+.desktop-imgs .dektop{
+   /* display: none !important;*/
+   width: 80%;
+}
+.desktop-imgs .tab-img{
+   /* display: none !important;*/
+   width: 40%;
+       top: 2%;
+    left: 55%;
+} 
+.desktop-imgs .keyboard {
+    margin-left: 10px;
+}
+.desktop-imgs .mouse{
+    margin: auto;
+    display: block;
+}
+.li1-img {
+    padding-bottom: 0;
+}
+.tab1{
+    display: none;
+} 
+.contact-form {
+    margin-left: 0%;
+    padding: 10% 0;
+}
+.address {
+    margin-top: 0%;
+    padding: 10%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+.owl-theme .owl-controls {
+    text-align: left;
+    width: auto;
+    margin-top: 10px !important;
+}
+.footer-logo{
+        margin: auto;
+    display: block;
+}
+.footrmenu ul li {
+    display: inline-block;
+    margin: 20px 20px 0px 3px;
+}
+.footer-row2 {
+    margin-top: 10px;
+}
+.copyright {
+    font-size: 12px;
+    text-align: center;
+}
+.social-link .pull-right {
+    float: left;
+}
+.social-link  .list-inline {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+}
+}
